@@ -1,0 +1,13 @@
+{
+	"data": [{
+			"name": "The Wild Hare British Chicken Dhal",
+			"price": 5.45,
+			"image": "https://i.ibb.co/sPsJrQW/chicken-dahl.png"
+		},
+		{
+			"name": "Tideford Minestrone Pasta",
+			"price": 2.99,
+			"image": "https://i.ibb.co/zVRPGPv/soup.png"
+		}
+	]
+}
