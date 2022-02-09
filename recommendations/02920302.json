@@ -1,0 +1,13 @@
+{
+	"data": [{
+			"name": "Thorner's Extra Lean British Minced Beef",
+			"price": 4.75,
+			"image": "https://i.ibb.co/TPP9kt9/thorners-beef.png"
+		},
+		{
+			"name": "Haloodies Beef Mince",
+			"price": 4.89,
+			"image": "https://i.ibb.co/mFjxM07/halal-beef-mince.png"
+		}
+	]
+}
